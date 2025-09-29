@@ -41,9 +41,8 @@ By combining Power Query for cleaning, DAX for calculations, and Power BI for vi
 ---
 
 ##  Dashboard Preview  
-![Dashboard Overview]
-(moviedash.PNG)
 
+https://github.com/kabiratsalawudeen20-creator/Movie-Rating-Analystics-dashboard/blob/main/moviedash.PNG
 ---
 
 ##  Future Improvements  
