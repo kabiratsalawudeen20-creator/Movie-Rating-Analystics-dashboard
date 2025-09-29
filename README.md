@@ -1,6 +1,6 @@
 ## Movie Rating Analystics Dashboard 
 
-This project analyzes audience behavior and movie popularity using the **MovieLens dataset**.  
+This project analyzes audience behavior and movie popularity using the **Moviedataset**.  
 
 ## Scope and Objectives
 
@@ -35,13 +35,14 @@ By combining Power Query for cleaning, DAX for calculations, and Power BI for vi
 ##  Repository Structure  
 - `Movie_Ratings_Analytics.pbix` → Power BI dashboard file  
 - `datasets/` → movies datasets (`movies dataset.csv`, `ratings_s.csv`)  
-- `images/moviedash.png ` → Screenshots of the dashboard  
+- `moviedash.png ` → Screenshots of the dashboard  
 - `README.md` → Project documentation  
 
 ---
 
 ##  Dashboard Preview  
-![Dashboard Overview](images/moviedash.png)  
+![Dashboard Overview]
+(moviedash.png)  
 
 ---
 
