@@ -10,12 +10,11 @@ By combining Power Query for cleaning, DAX for calculations, and Power BI for vi
 ---
 
 ##  Key Insights  
-**Top 10 Movies** → Ranked by average rating  
- **Most Popular Movies** → Ranked by number of ratings  
- **Genres Analysis** → Engagement level & average rating across genres  
+- **Top 10 Movies** → Ranked by average rating  
+- **Most Popular Movies** → Ranked by number of rating-s  
+- **Genres Analysis** → Engagement level & average rating across genres  
 -  **Tag Insights** → Top 10 tags linked to highly-rated movies  
 - **Ratings Over Time** → How audience preferences evolved (using timestamps)  
-
 ---
 
 ##  Tools & Technologies  
@@ -36,7 +35,7 @@ By combining Power Query for cleaning, DAX for calculations, and Power BI for vi
 ##  Repository Structure  
 - `Movie_Ratings_Analytics.pbix` → Power BI dashboard file  
 - `datasets/` → movies datasets (`movies dataset.csv`, `ratings_s.csv`)  
-- `images/` → Screenshots of the dashboard  
+- `images/moviedash.png ` → Screenshots of the dashboard  
 - `README.md` → Project documentation  
 
 ---
