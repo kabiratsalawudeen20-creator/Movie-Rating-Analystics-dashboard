@@ -40,12 +40,12 @@ By combining Power Query for cleaning, DAX for calculations, and Power BI for vi
 
 ---
 
-##  Dashboard Preview  
+### Dashboard Preview  
 
 https://github.com/kabiratsalawudeen20-creator/Movie-Rating-Analystics-dashboard/blob/main/moviedash.PNG
 ---
 
-##  Future Improvements  
+###  Future Improvements  
 - Add movie **budget, revenue, and ROI** analysis using TMDb/OMDb APIs  
 - Compare **audience vs critic ratings**  
 - Expand dashboard to include **time-series forecasting** of movie popularity  
