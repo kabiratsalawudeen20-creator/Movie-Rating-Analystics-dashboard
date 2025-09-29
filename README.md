@@ -35,14 +35,14 @@ By combining Power Query for cleaning, DAX for calculations, and Power BI for vi
 ##  Repository Structure  
 - `Movie_Ratings_Analytics.pbix` → Power BI dashboard file  
 - `datasets/` → movies datasets (`movies dataset.csv`, `ratings_s.csv`)  
-- `moviedash.png ` → Screenshots of the dashboard  
+- `images/moviedash.PNG ` → Screenshots of the dashboard  
 - `README.md` → Project documentation  
 
 ---
 
 ##  Dashboard Preview  
 ![Dashboard Overview]
-(moviedash.png)  
+(images/moviedash.PNG)  
 
 ---
 
